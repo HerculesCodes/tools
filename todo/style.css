@@ -79,6 +79,7 @@ ul li.checked::before {
 
 /* Style the header */
 .header {
+  font-family:'Comic Sans MS';
   background-color: cornflowerblue;
   padding: 30px 40px;
   color: white;
